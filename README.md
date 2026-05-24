@@ -16,22 +16,26 @@ SETUP BEFORE PUBLISHING:
 -->
 
 <p align="center">
-  <img src="assets/github-banner.png" alt="IT Support Portfolio banner featuring CompTIA A+ certification, Windows troubleshooting, help desk documentation, and HCS-LAB" width="100%">
+  <img src="assets/github_banner_final.jpg" alt="IT Support Portfolio banner featuring CompTIA A+ certification, Windows troubleshooting, help desk documentation, and HCS-LAB" width="100%">
 </p>
 
-# Hi, I'm Rasheda 👋
+# Hi, I'm Rasheda
 
 ### CompTIA A+ Certified | IT Support • Help Desk • Desktop Support
 
-I’m a **CompTIA A+ certified IT professional** and **Per Scholas graduate** bringing more than 20 years of experience supporting people, solving problems, protecting confidential information, and communicating clearly in fast-paced environments.
+## About Me
 
-What draws me to IT support is simple: **I like helping people solve problems that are stopping them from doing their work.** Throughout my career, I’ve been the person others relied on to stay calm, listen carefully, organize the details, and follow through until an issue was resolved.
+I’m a **CompTIA A+ certified IT professional** and **Per Scholas graduate** building my career in IT support after more than 20 years of experience helping executives, teams, and customers solve problems in fast-paced environments.
 
-I’m building a hands-on portfolio around **Windows troubleshooting, help desk documentation, customer-focused technical support, and practical IT lab work**. My goal is to show not only what I know, but how I approach a problem, document the solution, and support the end user professionally.
+What draws me to IT support is simple: **I enjoy helping people get past technical problems that are keeping them from doing their work.** I bring a calm, customer-focused approach, strong attention to detail, and a commitment to clear documentation and follow-through.
+
+Through my training and hands-on portfolio work, I am building practical experience with **Windows troubleshooting, Microsoft 365, hardware and software support, networking fundamentals, Hyper-V, Active Directory, help desk ticketing, and knowledge base documentation**.
+
+My current goal is to begin my career in **IT Support, Help Desk, or Desktop Support**. Long term, I plan to grow into cybersecurity and digital forensics, with a focus on helping protect vulnerable people from cybercrime.
 
 ---
 
-## 🔧 What I'm Building
+## What I'm Building
 
 My portfolio is based around **HarborLight Community Services, Inc. (HCS)**, a fictional organization I created to practice realistic IT support scenarios.
 
@@ -50,7 +54,7 @@ Current and upcoming portfolio work:
 
 ---
 
-## 🧰 Technical Toolkit
+## Technical Toolkit
 
 **Support & Operating Systems**  
 Windows 10/11 • Microsoft 365 • Hardware and software troubleshooting • Printer support • Mobile device support • Ticket documentation
@@ -66,7 +70,7 @@ Clear communication • Active listening • Documentation • De-escalation •
 
 ---
 
-## 🗂️ Portfolio Projects
+## Portfolio Projects
 
 > I am building this portfolio intentionally. Each completed project will show the problem, my troubleshooting or configuration process, the solution, sanitized screenshots, documentation, and what I learned.
 
@@ -92,7 +96,7 @@ When a repository is completed, replace a project name with its link, for exampl
 
 ---
 
-## 📄 How I Document My Work
+## How I Document My Work
 
 In each completed project, I aim to include:
 
@@ -105,7 +109,7 @@ In each completed project, I aim to include:
 
 ---
 
-## 🎓 Certification & Training
+## Certification & Training
 
 - **CompTIA A+ Certified**
 - **Per Scholas IT Support Training Graduate** — 357 hours of hands-on technical training
@@ -114,23 +118,7 @@ I am continuing to grow my skills in Windows support, networking, security funda
 
 ---
 
-## 💼 My Background
-
-Before moving into IT support, I spent more than 20 years supporting executives, teams, and customers in fast-paced environments. That experience taught me how to communicate calmly, organize information carefully, protect confidential data, and solve problems with professionalism.
-
-I bring those same strengths into IT support: **listen carefully, investigate thoroughly, document clearly, and make sure the person needing help feels supported.**
-
----
-
-## 🎯 Career Goal
-
-I am seeking an entry-level **IT Support, Help Desk, or Desktop Support** opportunity where I can bring strong customer service, professionalism, and growing technical skills to an end-user support team.
-
-Long term, I plan to grow into cybersecurity and digital forensics, with a focus on work that helps protect vulnerable people from cybercrime.
-
----
-
-## 🤝 Connect With Me
+## Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/rncharlow)
 - GitHub: [@rncharlow](https://github.com/rncharlow)
@@ -140,4 +128,5 @@ Long term, I plan to grow into cybersecurity and digital forensics, with a focus
 <p align="center">
   <em>Customer-focused support • Clear documentation • Continuous learning</em>
 </p>
+
 
