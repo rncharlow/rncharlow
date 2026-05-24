@@ -5,71 +5,139 @@
   <img src="assets/github_banner_final.jpg" alt="Rasheda Charlow | IT Support Professional | Help Desk | Cybersecurity Path | CompTIA A+ Certified" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Rasheda Charlow</h1>
+<!--
+PROFILE README FOR: https://github.com/rncharlow
+
+SETUP BEFORE PUBLISHING:
+1. Create a public repository named exactly: rncharlow
+2. Add your final GitHub banner to: assets/github-banner.png
+3. Link each portfolio project as it is completed.
+4. Do not add Security+ Certified until you officially pass the exam.
+-->
 
 <p align="center">
-  <strong>IT Support Professional | Help Desk | Cybersecurity Path</strong>
+  <img src="assets/github-banner.png" alt="IT Support Portfolio banner featuring CompTIA A+ certification, Windows troubleshooting, help desk documentation, and HCS-LAB" width="100%">
 </p>
 
-<p align="center">
-  CompTIA A+ Certified &nbsp;|&nbsp; Security+ Candidate &nbsp;|&nbsp; Building practical support and security labs
-</p>
+# Hi, I'm Rasheda 👋
 
-## About Me
+### CompTIA A+ Certified | IT Support • Help Desk • Desktop Support
 
-I am transitioning into IT support after more than 20 years of professional experience supporting executives, coordinating complex work, documenting processes, and helping teams stay organized. I earned my **CompTIA A+ certification** and completed **357 hours of hands-on IT support training through Per Scholas**.
+I’m a **CompTIA A+ certified IT professional** and **Per Scholas graduate** bringing more than 20 years of experience supporting people, solving problems, protecting confidential information, and communicating clearly in fast-paced environments.
 
-I am building this portfolio to demonstrate practical skills in Windows troubleshooting, help desk documentation, Active Directory support, networking fundamentals, PowerShell, and security-focused problem solving. My long-term goal is to grow into cybersecurity and digital forensics work that helps protect vulnerable people.
+What draws me to IT support is simple: **I like helping people solve problems that are stopping them from doing their work.** Throughout my career, I’ve been the person others relied on to stay calm, listen carefully, organize the details, and follow through until an issue was resolved.
 
-## Certifications and Training
+I’m building a hands-on portfolio around **Windows troubleshooting, help desk documentation, customer-focused technical support, and practical IT lab work**. My goal is to show not only what I know, but how I approach a problem, document the solution, and support the end user professionally.
 
-- **CompTIA A+** — Certified
-- **CompTIA Security+** — Candidate; exam planned for June 2026  
-- **Per Scholas IT Support Training** — Graduate; 357 hours of hands-on training
+---
 
-## Technical Skills
+## 🔧 What I'm Building
 
-**IT Support:** Windows 10/11, hardware installation, software troubleshooting, user support, printer setup, Microsoft 365  
-**Windows Administration Labs:** Hyper-V, Windows Server, Active Directory, users and groups, OUs, password resets, Group Policy basics  
-**Networking:** TCP/IP, DNS, DHCP, Wi-Fi troubleshooting, SOHO routers and switches, `ipconfig`, `ping`, `nslookup`  
-**Tools and Documentation:** PowerShell, Command Prompt, Event Viewer, Device Manager, ticket documentation, knowledge base articles
+My portfolio is based around **HarborLight Community Services, Inc. (HCS)**, a fictional organization I created to practice realistic IT support scenarios.
 
-## Featured Portfolio Projects
+**Lab environment:** `HCSLAB.local`  
+**Platform:** Hyper-V  
+**Focus:** End-user support, Windows administration, Active Directory, troubleshooting, ticket documentation, and knowledge base writing
 
-| Project | Skill Evidence | Status | Link |
-|---|---|---:|---|
-| **HarborLight Help Desk Lab** | Hyper-V, Windows support, ticket documentation | Building | [Add repository link] |
-| **Active Directory User Support Lab** | Accounts, groups, password resets, DNS/domain join troubleshooting | Planned | [Add repository link] |
-| **HCS Knowledge Base Library** | End-user documentation and clear instructions | Building | [Add repository link] |
-| **PowerShell Help Desk Toolkit** | Practical support commands and scripts | Planned | [Add repository link] |
-| **Cybersecurity Case Studies** | Sanitized analysis and security documentation | Planned | [Add repository link] |
+Current and upcoming portfolio work:
 
-## Currently Working On
+- Windows 11 and Windows Server virtual lab setup in Hyper-V
+- Active Directory users, groups, organizational units, and Group Policy
+- Help desk tickets written from realistic end-user issues
+- Knowledge base articles written for non-technical users
+- Printer, network connectivity, login, Microsoft 365, and Windows troubleshooting scenarios
+- Basic security and incident documentation as my skills grow
 
-- Building a **Hyper-V** virtual lab for the fictional organization **HarborLight Community Services, Inc.**
-- Practicing Windows support scenarios and documenting resolutions like a help desk technician
-- Preparing for CompTIA Security+
-- Developing documentation that shows both technical skill and customer-focused communication
+---
 
-## Portfolio Repositories to Build
+## 🧰 Technical Toolkit
 
-```text
-hcs-help-desk-lab
-hcs-active-directory-support-lab
-hcs-knowledge-base-articles
-powershell-help-desk-toolkit
-windows-troubleshooting-case-studies
-cybersecurity-investigation-labs
-```
+**Support & Operating Systems**  
+Windows 10/11 • Microsoft 365 • Hardware and software troubleshooting • Printer support • Mobile device support • Ticket documentation
 
-## Connect With Me
+**Networking Fundamentals**  
+TCP/IP • Wi-Fi and SOHO networking • IP configuration • DNS and DHCP fundamentals • `ipconfig` • `ping` • Basic connectivity troubleshooting
 
-- **GitHub:** `rncharlow`
-- **LinkedIn:** [(https://www.linkedin.com/in/rncharlow)]
-- **Location:** New York City Metropolitan Area
+**Windows Administration & Labs**  
+Hyper-V • Windows Server • Active Directory • Group Policy • User and computer management • PowerShell fundamentals
+
+**Customer Support Strengths**  
+Clear communication • Active listening • Documentation • De-escalation • Confidentiality • Follow-through • Customer-first problem solving
+
+---
+
+## 🗂️ Portfolio Projects
+
+> I am building this portfolio intentionally. Each completed project will show the problem, my troubleshooting or configuration process, the solution, sanitized screenshots, documentation, and what I learned.
+
+### Help Desk & Desktop Support
+
+| Project | What It Demonstrates | Status |
+|---|---|---|
+| HCS Hyper-V Help Desk Lab Setup | Building a realistic Windows support environment | In Progress |
+| Windows Troubleshooting Ticket Series | Diagnosing and documenting common end-user issues | Planned |
+| Knowledge Base Article Library | Explaining technical fixes clearly for end users | Planned |
+
+### Windows Administration
+
+| Project | What It Demonstrates | Status |
+|---|---|---|
+| HCS Active Directory Setup | Domain configuration, users, groups, and computers | Planned |
+| HCS OU and GPO Design | Organized administration and policy-based troubleshooting | Planned |
+
+<!--
+When a repository is completed, replace a project name with its link, for example:
+[HCS Hyper-V Help Desk Lab Setup](https://github.com/rncharlow/hcs-hyperv-help-desk-lab)
+-->
+
+---
+
+## 📄 How I Document My Work
+
+In each completed project, I aim to include:
+
+- A clear description of the user problem or business need
+- Tools and systems used
+- Step-by-step troubleshooting or configuration work
+- Screenshots showing results with sensitive details removed
+- Help desk ticket notes or knowledge base documentation
+- A reflection on what I learned and how the skill applies in a real support role
+
+---
+
+## 🎓 Certification & Training
+
+- **CompTIA A+ Certified**
+- **Per Scholas IT Support Training Graduate** — 357 hours of hands-on technical training
+
+I am continuing to grow my skills in Windows support, networking, security fundamentals, and technical documentation.
+
+---
+
+## 💼 My Background
+
+Before moving into IT support, I spent more than 20 years supporting executives, teams, and customers in fast-paced environments. That experience taught me how to communicate calmly, organize information carefully, protect confidential data, and solve problems with professionalism.
+
+I bring those same strengths into IT support: **listen carefully, investigate thoroughly, document clearly, and make sure the person needing help feels supported.**
+
+---
+
+## 🎯 Career Goal
+
+I am seeking an entry-level **IT Support, Help Desk, or Desktop Support** opportunity where I can bring strong customer service, professionalism, and growing technical skills to an end-user support team.
+
+Long term, I plan to grow into cybersecurity and digital forensics, with a focus on work that helps protect vulnerable people from cybercrime.
+
+---
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/rncharlow)
+- GitHub: [@rncharlow](https://github.com/rncharlow)
 
 ---
 
 <p align="center">
-  <em>Support users. Document clearly. Secure what matters.</em>
+  <em>Customer-focused support • Clear documentation • Continuous learning</em>
 </p>
+
