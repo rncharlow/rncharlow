@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="assets/rasheda-charlow-github-banner.png" alt="Rasheda Charlow | IT Support Professional | Help Desk | Cybersecurity Path | CompTIA A+ Certified" width="100%">
+  <img src="assets/github_banner_final.jpg" alt="Rasheda Charlow | IT Support Professional | Help Desk | Cybersecurity Path | CompTIA A+ Certified" width="100%">
 </p>
 
 <h1 align="center">Hi, I'm Rasheda Charlow</h1>
