@@ -31,7 +31,7 @@ My current goal is to begin my career in **IT Support, Help Desk, or Desktop Sup
 
 ## What I'm Building
 
-My portfolio is based around **HarborLight Community Services, Inc. (HCS)**, a fictional organization I created to practice realistic IT support scenarios.
+My portfolio is built around **HarborLight Community Services, Inc. (HCS)**, a fictional organization designed to simulate realistic IT support environments, workflows, and troubleshooting scenarios.
 
 **Lab environment:** `HCSLAB.local`  
 **Platform:** Hyper-V  
