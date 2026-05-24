@@ -1,10 +1,4 @@
 
-
-
-<p align="center">
-  <img src="assets/github_banner_final.jpg" alt="Rasheda Charlow | IT Support Professional | Help Desk | Cybersecurity Path | CompTIA A+ Certified" width="100%">
-</p>
-
 <!--
 PROFILE README FOR: https://github.com/rncharlow
 
