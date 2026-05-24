@@ -1,14 +1,5 @@
-# README.md — Type Over This File for Your GitHub Profile
+# README.md 
 
-<!--
-HOW TO USE THIS FILE:
-1. Rename this file to README.md when you upload it to your public GitHub repository named rncharlow.
-2. Replace anything labeled TYPE OVER THIS.
-3. Remove this instruction block before publishing.
-4. The banner below is your public-ready CompTIA A+ Certified version.
-5. After you officially earn Security+, replace the image source with:
-   assets/banner-future-a-plus-security-plus-certified.png
--->
 
 <p align="center">
   <img src="assets/rasheda-charlow-github-banner.png" alt="Rasheda Charlow | IT Support Professional | Help Desk | Cybersecurity Path | CompTIA A+ Certified" width="100%">
@@ -34,7 +25,6 @@ I am building this portfolio to demonstrate practical skills in Windows troubles
 
 - **CompTIA A+** — Certified
 - **CompTIA Security+** — Candidate; exam planned for June 2026  
-  <!-- TYPE OVER THIS after you pass: replace with “CompTIA Security+ — Certified” -->
 - **Per Scholas IT Support Training** — Graduate; 357 hours of hands-on training
 
 ## Technical Skills
@@ -48,11 +38,11 @@ I am building this portfolio to demonstrate practical skills in Windows troubles
 
 | Project | Skill Evidence | Status | Link |
 |---|---|---:|---|
-| **HarborLight Help Desk Lab** | Hyper-V, Windows support, ticket documentation | Building | [TYPE OVER THIS: Add repository link] |
-| **Active Directory User Support Lab** | Accounts, groups, password resets, DNS/domain join troubleshooting | Planned | [TYPE OVER THIS: Add repository link] |
-| **HCS Knowledge Base Library** | End-user documentation and clear instructions | Building | [TYPE OVER THIS: Add repository link] |
-| **PowerShell Help Desk Toolkit** | Practical support commands and scripts | Planned | [TYPE OVER THIS: Add repository link] |
-| **Cybersecurity Case Studies** | Sanitized analysis and security documentation | Planned | [TYPE OVER THIS: Add repository link] |
+| **HarborLight Help Desk Lab** | Hyper-V, Windows support, ticket documentation | Building | [Add repository link] |
+| **Active Directory User Support Lab** | Accounts, groups, password resets, DNS/domain join troubleshooting | Planned | [Add repository link] |
+| **HCS Knowledge Base Library** | End-user documentation and clear instructions | Building | [Add repository link] |
+| **PowerShell Help Desk Toolkit** | Practical support commands and scripts | Planned | [Add repository link] |
+| **Cybersecurity Case Studies** | Sanitized analysis and security documentation | Planned | [Add repository link] |
 
 ## Currently Working On
 
@@ -75,8 +65,7 @@ cybersecurity-investigation-labs
 ## Connect With Me
 
 - **GitHub:** `rncharlow`
-- **LinkedIn:** [TYPE OVER THIS: paste your LinkedIn profile link]
-- **Email:** [TYPE OVER THIS: add a professional email address or delete this line]
+- **LinkedIn:** [(https://www.linkedin.com/in/rncharlow)]
 - **Location:** New York City Metropolitan Area
 
 ---
